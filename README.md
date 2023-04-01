@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# Google keep clone
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+It is a simple clone of google keep note taking web app.
 
-## Recommended IDE Setup
+Live: https://owais11-art.github.io/keep/
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# How to Run
+
+- install vite.
+- Clone this repository (git clone https://github.com/owais11-art/keep.git).
+- npm install (To install all the dependencies)
+- npm run dev (To start development server at http://localhost:5173/)
+
+# Functionality
+
+- Users can add notes.
+- Users can delete notes.
+- Users can edit notes.
+- Users can pin notes.
+- Users can archive notes.
+- Users can add labels to notes.
+- Users can clone a note.
+- Users can change background color of a note.
