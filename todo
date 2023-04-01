@@ -1,0 +1,21 @@
+- Google Keep Clone
+    - Header @done
+        - Add Hamburger and Logo @done
+    - Component for adding task @done
+    - Side Navigation @done
+    - Notes
+        - Add pin function @done
+        - Add archived function @done
+        - Add edit notes function @done
+        - Add delete notes function @done
+        - Add note copy functionality @done
+        - Add labels functionality @done
+    - Home Page @done
+    - Archives Page @done
+    - Delete Page @done
+    - Edit Labels Modal @done
+
+    - Backlog
+        - Change nav-item and pin background at hover @done
+        - Delete alert modal @done
+        - Note background colors @done
